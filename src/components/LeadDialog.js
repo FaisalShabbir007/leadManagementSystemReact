@@ -1,5 +1,3 @@
-"use client"
-
 export function LeadDialog({ lead, open, onClose }) {
   if (!open || !lead) return null
 

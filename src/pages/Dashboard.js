@@ -1,4 +1,4 @@
-"use client"
+
 import { useLeadContext } from "../context/LeadContext"
 import { LeadTable } from "../components/LeadTable"
 

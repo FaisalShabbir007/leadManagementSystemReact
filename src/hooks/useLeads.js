@@ -1,4 +1,4 @@
-"use client"
+
 
 import { useState, useEffect, useCallback } from "react"
 import { mockLeads } from "../lib/data"

@@ -1,5 +1,3 @@
-"use client"
-
 export function DeleteConfirmation({ isOpen, onClose, onConfirm }) {
   if (!isOpen) return null
 

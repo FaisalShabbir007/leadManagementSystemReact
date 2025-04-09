@@ -1,5 +1,3 @@
-"use client"
-
 export function LeadTable({ leads, isLoading, onView, onDelete }) {
   if (isLoading) {
     return (

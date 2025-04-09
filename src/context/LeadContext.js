@@ -1,4 +1,4 @@
-"use client"
+
 
 import { createContext, useContext } from "react"
 import { useLeads } from "../hooks/useLeads"
